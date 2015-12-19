@@ -1,0 +1,21 @@
+{
+  "author": "Redfin",
+  "dependencies": {
+    "babel": "5.8.23",
+    "busboy": "0.2.11",
+    "express": "4.11.0",
+    "lodash": "3.10.1",
+    "react": "0.12.2",
+    "node-html-encoder": "0.0.2",
+    "body-parser": "1.14.1",
+    "cookie-parser": "1.4.0"
+  },
+  "description": "Redfin Awesome Merchandising Previewer",
+  "license": "All Rights Reserved. No license.",
+  "main": "app.js",
+  "name": "RAMP",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.0"
+}
